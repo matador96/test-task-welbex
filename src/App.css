@@ -1,10 +1,15 @@
 .App {
+  margin-top: 30px;
   text-align: center;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+.searchbutton {
+  display: block;
+  width: 100%;
 }
 
 @media (prefers-reduced-motion: no-preference) {
